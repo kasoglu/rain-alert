@@ -8,6 +8,8 @@ Download the [Python 3](https://python.org) installer package from the official 
 Run the following in the terminal to install the Requests module to get weather data from [Open Weather Map](https://openweathermap.org/).
 ```
 pip install requests
+```
+```
 pip install twilio
 ```
 
